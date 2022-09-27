@@ -16,7 +16,7 @@ To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019
 Below is the BibTex for citing this version of the code.
 
 ```
-@article{CacheTest,
+@article{zhaorobust2022,
   author =        {Zhao, Ming and Freeman, Nickolas and Pan, Kai},
   publisher =     {INFORMS Journal on Computing},
   title =         {Robust Sourcing Under Multi-level Supply Risks: Analysis of Random Yield and Capacity},
