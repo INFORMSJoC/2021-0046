@@ -4,7 +4,8 @@
 
 This repository includes the data set and code used in the computational experiments of the paper: Robust Sourcing Under Multi-level Supply Risks: Analysis of Random Yield and Capacity, which is co-authored by Ming Zhao, Nickolas Freeman, and Kai Pan.
 
-This archive is distributed in association with the INFORMS Journal on Computing under the MIT License.
+This archive is distributed in association with the [INFORMS Journal on
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 ## Cite
 
