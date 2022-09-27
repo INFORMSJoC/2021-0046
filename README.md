@@ -26,10 +26,10 @@ Below is the BibTex for citing this version of the code.
 
 ```
 @article{CacheTest,
-  author =        {T. Ralphs},
+  author =        {Zhao, Ming and Freeman, Nickolas and Pan, Kai},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{CacheTest} Version v1.0},
-  year =          {2020},
+  title =         {Robust Sourcing Under Multi-level Supply Risks: Analysis of Random Yield and Capacity},
+  year =          {2022},
   doi =           {10.5281/zenodo.3977566},
   url =           {https://github.com/INFORMSJoC/JoCTemplate},
 }  
