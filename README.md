@@ -9,9 +9,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 ## Cite
 
-To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) using its DOI and the software itself, using the following DOI.
-
-[![DOI](https://zenodo.org/badge/541360089.svg)](https://zenodo.org/badge/latestdoi/541360089)
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2022.1254) using its DOI and the software itself, using the following DOI: [10.1287/ijoc.2022.1254.cd](https://doi.org/10.1287/ijoc.2022.1254.cd)
 
 Below is the BibTex for citing this version of the code.
 
@@ -21,7 +19,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {Robust Sourcing Under Multi-level Supply Risks: Analysis of Random Yield and Capacity},
   year =          {2022},
-  doi =           {DOI: 10.5281/zenodo.7129356},
-  url =           {https://github.com/INFORMSJoC/JoCTemplate},
+  doi =           {10.1287/ijoc.2022.1254.cd},
+  url =           {https://github.com/INFORMSJoC/2021-0046},
 }  
 ```
